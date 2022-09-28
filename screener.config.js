@@ -1,5 +1,5 @@
 module.exports = {
-    projectRepo: 'abrown/storyBook',
+    projectRepo: 'mattc/storyBookTemplate',
     storybookConfigDir: '.storybook',
     apiKey: process.env.SCREENER_API_KEY,
     failureExitCode: 0,
